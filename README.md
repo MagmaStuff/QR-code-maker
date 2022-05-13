@@ -1,2 +1,3 @@
-# QR-code-maker
-creates qr code using python
+### QR Code Generator
+
+Guided code on how to create a QR Code
